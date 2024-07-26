@@ -1,5 +1,7 @@
 # A Cotton Weave
 
+https://github.com/user-attachments/assets/4935fe44-b4f5-45a3-8269-6de210f45ddc
+
 This is a shopping page created using HTML, CSS, and CSS Grid/Flexbox for layout management. The project showcases the design skills and fashion works in a visually appealing and responsive manner.
 
 ## Features
