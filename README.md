@@ -1,4 +1,4 @@
-# Shop Jacket
+# A Cotton Weave
 
 This is a shopping page created using HTML, CSS, and CSS Grid/Flexbox for layout management. The project showcases the design skills and fashion works in a visually appealing and responsive manner.
 
